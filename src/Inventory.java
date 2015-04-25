@@ -36,7 +36,7 @@ public class Inventory {
         return product.getCategory();
     }
     
-    public String getProductSupplier(String name) {
+    public String getProductSupplier() {
         return product.getSupplier();
     }
     
